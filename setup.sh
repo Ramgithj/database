@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#! /bin/bash
 # setup a mysql db in a docker container
 
 # install docker if it isn't already
